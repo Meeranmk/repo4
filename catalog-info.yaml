@@ -14,7 +14,7 @@ metadata:
     sonarqube.org/project-key: Meeranmk_react-admin-dashboard
     
 spec:
-  type: Web-App 
+  type: service 
   lifecycle: development
   owner: prodapt4
   system: Sysco-UI-Portal2
